@@ -14,11 +14,19 @@
 </tr>
 </table>
 
-### Image Contributors
+## Monash Micro Imaging Team
+<table>
+<tr>
+<td>Ian Harper</td>
+<td>Stephen Firth</td><td>Alex Fulcher</td><td>Judy Callaghan</td><td>Jacqueline Mills</td>
+</tr>
+</table>
 
+## Image Contributors
 | Name | Image | Affiliation |
 | :--- | :---- | :---- |
 | Dilshan Gunasing | Bacterial D-STORM Data | Lithgow Lab <br> Faculty of Medicine, Nursing and Health Sciences <br> Monash Unveristy |
+| Alex Fulcher | Bacterial D-STORM Data | Monash Micro Imaging & Lithgow Lab <br> Faculty of Medicine, Nursing and Health Sciences <br> Monash Unveristy
 
 
 <br>
