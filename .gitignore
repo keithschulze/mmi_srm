@@ -22,3 +22,6 @@ _book
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
+
+### IMDone
+.imdone/
