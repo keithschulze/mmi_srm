@@ -50,4 +50,4 @@ Notice that the the effect of DoG is that the centre of blob-like objects is enh
 
 > Noise != Background (Unspecific) Signal
 
-__NONE__ of these techniques will help to remove 'background' fluorescence deriving from unspecific binding of antibodies. STORM is extremely sensitive and if your antibodies are non-specifically binding, there is nothing that can be done in terms of processing. This should be solved at the bench.
+__NONE__ of these techniques will help to remove 'background' fluorescence deriving from non-specific binding of antibodies or insufficient washing. STORM is extremely sensitive and non-specifically bound antibodies will be detected. Nothing can be done in terms of processing, so this should be solved at the bench.
