@@ -1,4 +1,4 @@
-# Spot Detection and Segementation
+# Spot Detection and Segmentation
 The first step in process STORM images sit to detect all spots/blink across all time-points. Spot detection is a segmentation problem. It is essentially a process of partitioning an image into foreground (i.e., objects of interest or spots) and the background. Once the image is segmented it is very easy to extract data from each of the individual segmented objects in the image.
 
 Signal-to-noise ratio has a strong influence on segmentation. In a perfect world where there is little noise and lots of signal, simple segmentation methods like thresholding would be sufficient. However, while cameras have improved a lot, the sensitivity required to detect very few photons being emitted from each spots means results in some level of noise.
